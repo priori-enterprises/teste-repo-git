@@ -1,1 +1,3 @@
 Adição de arquivo 2.
+
+Usando um método de 10.
